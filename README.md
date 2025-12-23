@@ -117,3 +117,6 @@ For enterprise support or commercial inquiries:
 
 (No sales funnels. Technical conversations only.)
 
+---
+
+Maintained by David (“Devin”) — https://github.com/DevinMyLegacy
